@@ -1,0 +1,19 @@
+{
+  "name": "limasphere_ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mre-Dennis-Kinuthia/LimaSphere_Ecommerce.git"
+  },
+  "author": "Mre-Dennis-kinuthia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mre-Dennis-Kinuthia/LimaSphere_Ecommerce/issues"
+  },
+  "homepage": "https://github.com/Mre-Dennis-Kinuthia/LimaSphere_Ecommerce#readme"
+}
